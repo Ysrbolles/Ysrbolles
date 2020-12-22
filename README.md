@@ -22,7 +22,11 @@
 - 🔭 Co-Founder of [Leafunder](https://leafunder.com)
 - 👨🏽‍💻 I’m currently studying at  [1337 School](https://1337.ma)
  
-[![42 Profile Card](https://1337-readme.vercel.app/api/profile?cursus=42cursus&login=ybolles)](https://github.com/mohouyizme/1337-readme)
+[![42 Profile Card](https://1337-readme.vercel.app/api/profile?cursus=42cursus&login=ybolles)](https://github.com/Ysrbolles/1337-readme)
+
+<!--[![Bolles's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Ysrbolles)](https://github.com/Ysrbolles/github-readme-stats)-->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ysrbolles&layout=compact&theme=merko)](https://github.com/Ysrbolles/github-readme-stats)
+![Bolles's github stats](https://github-readme-stats.vercel.app/api?username=Ysrbolles&show_icons=true&theme=merko )
 
 [![Twitter: imthepk](https://img.shields.io/twitter/follow/BollesYassir?style=social)](https://twitter.com/BollesYassir)
 
