@@ -10,7 +10,6 @@
 
 [![GitHub HamzaEzzahiry](https://img.shields.io/github/followers/Ysrbolles?label=follow&style=social)](https://github.com/Ysrbolles)
 [![Linkedin: imthepk](https://img.shields.io/badge/-ysrbolles-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ysrbolles/)](https://www.linkedin.com/in/ysrbolles/)
-[![Instagram: imthepk](https://img.shields.io/badge/-ysrbolles-?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/ysrbolles/)](https://www.instagram.com/ysrbolles/)
 
 
 <!--
