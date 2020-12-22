@@ -28,30 +28,14 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ysrbolles&layout=compact&theme=merko)](https://github.com/Ysrbolles/github-readme-stats)
 ![Bolles's github stats](https://github-readme-stats.vercel.app/api?username=Ysrbolles&show_icons=true&theme=merko )
 
+
+
 [![Twitter: imthepk](https://img.shields.io/twitter/follow/BollesYassir?style=social)](https://twitter.com/BollesYassir)
 
 [![GitHub HamzaEzzahiry](https://img.shields.io/github/followers/Ysrbolles?label=follow&style=social)](https://github.com/Ysrbolles)
 [![Linkedin: imthepk](https://img.shields.io/badge/-ysrbolles-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ysrbolles/)](https://www.linkedin.com/in/ysrbolles/)
 
-Where to find me :
-<br/>
-<a href="https://twitter.com/BollesYassir">
-  <img align="left" alt="Bolles's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
 
-<a href="https://www.facebook.com/Ysrbolles/">
-  <img align="left" alt="Bolles's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
-</a>
-
-<a href="https://linkedin.com/in/ysrbolles">
-  <img align="left" alt="Bolles's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-
-<a href="https://github.com/Ysrbolles">
-  <img align="left" alt="Bolles's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-</a>
-<br/>
-<br/>
 
 <!--
 **Ysrbolles/Ysrbolles** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
