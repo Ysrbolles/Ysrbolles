@@ -2,7 +2,7 @@
 
 
 
-👨🏽‍💻  I’m currently studying at https://1337.ma/ 
+- 👨🏽‍💻 I’m currently studying at  [1337 School](https://1337.ma)
  
 [![42 Profile Card](https://1337-readme.vercel.app/api/profile?cursus=42cursus&login=ybolles)](https://github.com/mohouyizme/1337-readme)
 <!--
