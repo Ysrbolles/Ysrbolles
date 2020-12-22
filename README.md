@@ -35,12 +35,12 @@
 
 Where to find me :
 <br/>
-<a href="https://www.facebook.com/Ysrbolles/">
-  <img align="left" alt="Bolles's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
-</a>
-
 <a href="https://twitter.com/BollesYassir">
   <img align="left" alt="Bolles's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+
+<a href="https://www.facebook.com/Ysrbolles/">
+  <img align="left" alt="Bolles's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
 
 <a href="https://linkedin.com/in/ysrbolles">
