@@ -1,7 +1,25 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently Co-Founder of  [Leafunder](https://leafunder.com)
+<a href="https://www.facebook.com/Ysrbolles/">
+  <img align="left" alt="Bolles's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+</a>
+
+<a href="https://twitter.com/BollesYassir">
+  <img align="left" alt="Bolles's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+
+<a href="https://linkedin.com/in/ysrbolles">
+  <img align="left" alt="Bolles's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+
+<a href="https://github.com/Ysrbolles">
+  <img align="left" alt="Bolles's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a>
+<br/>
+<br/>
+
+- 🔭 Co-Founder of [Leafunder](https://leafunder.com)
 - 👨🏽‍💻 I’m currently studying at  [1337 School](https://1337.ma)
  
 [![42 Profile Card](https://1337-readme.vercel.app/api/profile?cursus=42cursus&login=ybolles)](https://github.com/mohouyizme/1337-readme)
