@@ -32,7 +32,7 @@
 
 [![Twitter: imthepk](https://img.shields.io/twitter/follow/BollesYassir?style=social)](https://twitter.com/BollesYassir)
 
-[![GitHub HamzaEzzahiry](https://img.shields.io/github/followers/Ysrbolles?label=follow&style=social)](https://github.com/Ysrbolles)
+[![GitHub Ysrbolles](https://img.shields.io/github/followers/Ysrbolles?label=follow&style=social)](https://github.com/Ysrbolles)
 [![Linkedin: imthepk](https://img.shields.io/badge/-ysrbolles-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ysrbolles/)](https://www.linkedin.com/in/ysrbolles/)
 
 
