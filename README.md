@@ -25,8 +25,9 @@
 [![42 Profile Card](https://1337-readme.vercel.app/api/profile?cursus=42cursus&login=ybolles)](https://github.com/Ysrbolles)
 
 <!--[![Bolles's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Ysrbolles)](https://github.com/Ysrbolles/github-readme-stats)-->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ysrbolles&layout=compact&theme=merko)](https://github.com/Ysrbolles/github-readme-stats)
 ![Bolles's github stats](https://github-readme-stats.vercel.app/api?username=Ysrbolles&show_icons=true&theme=merko )
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ysrbolles&layout=compact&theme=merko)](https://github.com/Ysrbolles/github-readme-stats)
+
 
 
 
