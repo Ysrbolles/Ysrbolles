@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm BOLLES YASSIR</h1>
 <h3 align="center">Fullstack developer , Co-Founder of Leafunder and 👨🏽‍💻 I’m currently studying at 1337 Coding school</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ysrbolles&label=Profile%20views&color=0e75b6&style=flat" alt="ysrbolles" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ysrbolles" alt="ysrbolles" /></a> </p>
-
 - 🔭 I’m currently working on **LEAFUNDER**
 
 - 🌱 I’m currently learning **WEB3**
@@ -33,6 +29,11 @@
 
 [![42 Profile Card](https://1337-readme.vercel.app/api/profile?cursus=42cursus&login=ybolles)](https://github.com/Ysrbolles)
 
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ysrbolles&label=Profile%20views&color=0e75b6&style=flat" alt="ysrbolles" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ysrbolles" alt="ysrbolles" /></a> </p>
 <!--
 **Ysrbolles/Ysrbolles** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
