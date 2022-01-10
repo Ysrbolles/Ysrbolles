@@ -16,15 +16,11 @@ on:
 # The sequence of runs in this workflow:
 jobs:
   # This workflow contains a single job called "build"
-  build:
-    # The type of runner that the job will run on
+generate:
     runs-on: ubuntu-latest
-
+    timeout-minutes: 10
     # Steps represent a sequence of tasks that will be executed as part of the job
-    steps:
-
-    # Checks repo under $GITHUB_WORKSHOP, so your job can access it
-      - uses: actions/checkout@v2
+  
 
     # Generates the snake  
     steps:
@@ -32,7 +28,7 @@ jobs:
       - name: generate github-contribution-grid-snake.svg
         uses: Platane/snk@master
         with:
-          github_user_name: ${{ github.repository_owner }}
+          github_user_name: Ysrbolles
           svg_out_path: dist/github-contribution-grid-snake.svg
       
       # push the content of <build_dir> to a branch
