@@ -10,7 +10,6 @@
 - 👨🏽‍💻 I’m currently studying at **[1337 School](https://1337.ma)**
 
 - 📫 How to reach me **ysrbolles@gmail.com**
--
 
 ---
 
