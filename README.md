@@ -36,15 +36,22 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ysrbolles&" alt="ysrbolles" /></p> -->
 
-<!-- [![42 Profile Card](https://1337-readme.vercel.app/api/profile?cursus=42cursus&login=ybolles)](https://github.com/Ysrbolles)
-
---- -->
+---
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=ysrbolles&label=Profile%20views&color=0e75b6&style=flat" alt="ysrbolles" /> </p> -->
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ysrbolles" alt="ysrbolles" /></a> </p> -->
 
-<!-- --- -->
+<details>	
+  <summary><b> 42 Profile Card</summary>
+
+  <br />
+
+  <!-- [![42 Profile Card](https://1337-readme.vercel.app/api/profile?cursus=42&email=hide&dark=true&leet_logo=hide&login=ayagoumi)](https://github.com/Ayagoumi) -->
+  [![42 Profile Card](https://1337-readme.vercel.app/api/profile?cursus=42cursus&dark=true&login=ybolles)](https://github.com/Ysrbolles)
+</details>
+
+---
 
 <p align="center">
    <img src="https://github.com/Ysrbolles/Ysrbolles/blob/output/github-contribution-grid-snake.svg" alt="snake">
