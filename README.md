@@ -48,14 +48,23 @@
   	<ul>
   	    <li><b>OS:</b> MacOs Montery</li>
 	    <li><b>Laptop: </b> MacBook Pro (i9 2019)</li>
-  	    <li><b>Browser: </b> Firefox Web Browser</li>
+  	    <li><b>Browser: </b> Chrome & Firefox Web Browser</li>
 	    <li><b>Terminal: </b> ZSH: Oh My Zsh (fino)</li>
 	    <li><b>Code Editor:</b> VSCode - The best editor out there.</li>
 	    <li><b>To Stay Updated:</b> Dev.to, Medium, Linkedin, Twitter and StackOverflow (-Don't tell anyone-).</li>
 	</ul>	
 </details>
 
-</br>
+<details>	
+  <summary><b>⚡ Github Stats</b></summary>
+  <br />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ysrbolles&theme=dracula" />
+  <br/>
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ysrbolles&theme=dracula"/>
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ysrbolles&theme=dracula"/>
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ysrbolles&theme=dracula"/>
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ysrbolles&theme=dracula"/>
+</details>
 
 ---
 
