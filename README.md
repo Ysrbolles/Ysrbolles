@@ -6,7 +6,7 @@
 <div align="center">
 
 ### Glad that you are here 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ysrbolles&label=Profile%20views&color=0e75b6&style=flat" alt="ysrbolles" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=ysrbolles&label=Profile%20views&color=0e75b6&style=flat" alt="ysrbolles" /> </p>
 </div>
 <h3 align="center">Fullstack developer , Co-Founder of Leafunder and 👨🏽‍💻 I’m currently studying at 1337 Coding school</h3>
 
@@ -56,6 +56,15 @@
 
   [![42 Profile Card](https://1337-readme.vercel.app/api/profile?cursus=42cursus&dark=true&login=ybolles)](https://github.com/Ysrbolles)
 </details>
+
+---
+
+<div align="center"><a href="https://www.buymeacoffee.com/ysrbolles" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60px" width="217px" ></a></div>
+<div align="center">
+
+### Show some ❤️ by starring some of the repositories!
+
+</div>
 
 ---
 
