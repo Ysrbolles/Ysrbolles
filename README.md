@@ -37,15 +37,9 @@
 
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ysrbolles&show_icons=true&locale=en&layout=compact" alt="ysrbolles" /></p> -->
 
----
 
-<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ysrbolles&show_icons=true&locale=en" alt="ysrbolles" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ysrbolles&" alt="ysrbolles" /></p> -->
 
 ---
-
-
 
 
 
@@ -56,6 +50,21 @@
 
   [![42 Profile Card](https://1337-readme.vercel.app/api/profile?cursus=42cursus&dark=true&login=ybolles)](https://github.com/Ysrbolles)
 </details>
+
+<details>	
+  <br />
+  <summary><b>⚙️ Things I use to get stuff done</b></summary>
+  	<ul>
+  	    <li><b>OS:</b> MacOs Montery</li>
+	    <li><b>Laptop: </b> MacBook Pro (i9 2019)</li>
+  	    <li><b>Browser: </b> Firefox Web Browser</li>
+	    <li><b>Terminal: </b> ZSH: Oh My Zsh (fino)</li>
+	    <li><b>Code Editor:</b> VSCode - The best editor out there.</li>
+	    <li><b>To Stay Updated:</b> Dev.to, Medium, Linkedin, Twitter and StackOverflow (-Don't tell anyone-).</li>
+	</ul>	
+</details>
+
+</br>
 
 ---
 
