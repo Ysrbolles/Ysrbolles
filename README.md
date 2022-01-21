@@ -32,15 +32,15 @@
 
 ---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ysrbolles&show_icons=true&locale=en" alt="ysrbolles" /></p>
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ysrbolles&show_icons=true&locale=en" alt="ysrbolles" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ysrbolles&" alt="ysrbolles" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ysrbolles&" alt="ysrbolles" /></p> -->
 
 [![42 Profile Card](https://1337-readme.vercel.app/api/profile?cursus=42cursus&login=ybolles)](https://github.com/Ysrbolles)
 
 ---
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ysrbolles&label=Profile%20views&color=0e75b6&style=flat" alt="ysrbolles" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=ysrbolles&label=Profile%20views&color=0e75b6&style=flat" alt="ysrbolles" /> </p> -->
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ysrbolles" alt="ysrbolles" /></a> </p>
 
