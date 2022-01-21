@@ -44,7 +44,7 @@
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ysrbolles" alt="ysrbolles" /></a> </p> -->
 
----
+<!-- --- -->
 
 <p align="center">
    <img src="https://github.com/Ysrbolles/Ysrbolles/blob/output/github-contribution-grid-snake.svg" alt="snake">
