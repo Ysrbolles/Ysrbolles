@@ -8,7 +8,7 @@
 ### Glad that you are here 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ysrbolles&label=Profile%20views&color=0e75b6&style=flat" alt="ysrbolles" /> </p>
 
-<h1>Fullstack developer , Co-Founder of Leafunder and 👨🏽‍💻 I’m currently studying at 1337 Coding school<h1>
+<h2>Fullstack developer , Co-Founder of Leafunder and 👨🏽‍💻 I’m currently studying at 1337 Coding school<h2>
 </div>
 
 
