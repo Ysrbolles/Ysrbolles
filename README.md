@@ -35,16 +35,7 @@
 ---
 
 
-
-<details>	
-  <summary><b> 42 Profile Card</summary>
-
-  <br />
-
-  [![42 Profile Card](https://1337-readme.vercel.app/api/profile?cursus=42cursus&dark=true&login=ybolles)](https://github.com/Ysrbolles)
-</details>
-
-<details>	
+	
   <br />
   <summary><b>⚙️ Things I use to get stuff done</b></summary>
   	<ul>
