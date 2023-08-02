@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/3369400/133268513-5bfe2f93-4402-42c9-a403-81c9e86934b6.jpeg">
+
 
 <h1 align="center">Hi 👋, I'm BOLLES YASSIR</h1>
 
@@ -68,12 +68,13 @@
 
 </div>
 
+<!--
 ---
 
 <p align="center">
    <img src="https://github.com/Ysrbolles/Ysrbolles/blob/output/github-contribution-grid-snake.svg" alt="snake">
 </p>
-
+-->
 ---
 <!--
 **Ysrbolles/Ysrbolles** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
