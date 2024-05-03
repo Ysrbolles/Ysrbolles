@@ -1,24 +1,14 @@
 
 
-<h1 align="center">Hi 👋, I'm BOLLES YASSIR</h1>
-
+<!--<h1 align="center">Hi 👋, I'm BOLLES YASSIR</h1>-->
+<img src="https://github.com/Ysrbolles/Ysrbolles/blob/main/src/github-header-image(4).png" alt="ysrbolles" />
 
 <div align="center">
 
 ### Glad that you are here 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ysrbolles&label=Profile%20views&color=0e75b6&style=flat" alt="ysrbolles" /> </p>
-
-<h2>Fullstack developer , Co-Founder of Leafunder and 👨🏽‍💻 I’m currently studying at 1337 Coding school<h2>
+<h2>Experienced Web Developer with a demonstrated history of working in the software development industry and a 1337 Future Is Loading alumnus.<h2> 
 </div>
-
-
-- 🔭 I’m currently working on **[CASBAH](https://www.ctd.ma/)**
-
-- 🌱 I’m currently learning **WEB3**
-
-- 📫 How to reach me **ysrbolles@gmail.com**
-
----
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -37,7 +27,7 @@
   <br />
   <summary><b>⚙️ Things I use to get stuff done</b></summary>
   	<ul>
-  	    <li><b>OS:</b> MacOs Montery</li>
+  	    <li><b>OS:</b> MacOs Sonoma</li>
 	    <li><b>Laptop: </b> MacBook Pro (i9 2019)</li>
   	    <li><b>Browser: </b> Chrome & Firefox Web Browser</li>
 	    <li><b>Terminal: </b> ZSH: Oh My Zsh (fino)</li>
