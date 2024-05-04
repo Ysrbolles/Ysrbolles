@@ -10,8 +10,8 @@
 <h2>Experienced Web Developer with a demonstrated history of working in the software development industry and a 1337 Future Is Loading alumnus.<h2> 
 </div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="center">Connect with me</h3>
+<p align="center">
 <a href="https://twitter.com/bollesyassir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bollesyassir" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ysrbolles" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ysrbolles" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/12165699" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="12165699" height="30" width="40" /></a>
@@ -36,7 +36,7 @@
 	</ul>	
 </details>
 
-<details>	
+<!--<details>	
   <summary><b>⚡ Github Stats</b></summary>
   <br />
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ysrbolles&theme=dracula" />
@@ -45,7 +45,7 @@
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ysrbolles&theme=dracula"/>
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ysrbolles&theme=dracula"/>
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ysrbolles&theme=dracula"/>
-</details>
+</details>-->
 
 ---
 
