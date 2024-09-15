@@ -1,52 +1,19 @@
-
-
 <img src="https://github.com/Ysrbolles/Ysrbolles/blob/main/src/bolles.png" alt="ysrbolles" />
 
-<!-- <div align="center"> -->
+<div align="center">
 
 <!-- ### Glad that you are here  -->
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ysrbolles&label=Profile%20views&color=0e75b6&style=flat" alt="ysrbolles" /> </p>
-<!-- <h2>Experienced Web Developer with a demonstrated history of working in the software development industry and a 1337 Future Is Loading alumnus.<h2> 
-</div> -->
 
-<h3 align="center">Connect with me</h3>
-<p align="center">
+### Check out my portfolio at [Ysrbolles.com](https://ysrbolles.com)
 
-<a href="https://twitter.com/bollesyassir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bollesyassir" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ysrbolles" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ysrbolles" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/12165699" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="12165699" height="30" width="40" /></a>
-<a href="https://fb.com/ysrbolles" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ysrbolles" height="30" width="40" /></a>
-<a href="https://instagram.com/ysrbolles" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ysrbolles" height="30" width="40" /></a>
-</p>
+</div>
+
 
 
 ---
 
-
 <details>
-<!--<h1 align="center">Hi 👋, I'm BOLLES YASSIR</h1>-->
-<!--<img src="https://github.com/Ysrbolles/Ysrbolles/blob/main/src/github-header-image(4).png" alt="ysrbolles" />-->
-
-<!--<div align="center">-->
-
-<!--### Glad that you are here -->
-<!--<p align="center"> <img src="https://komarev.com/ghpvc/?username=ysrbolles&label=Profile%20views&color=0e75b6&style=flat" alt="ysrbolles" /> </p>-->
-<!-- <h2>Experienced Web Developer with a demonstrated history of working in the software development industry and a 1337 Future Is Loading alumnus.<h2>  -->
-<!-- </div> -->
-
-<!--<h3 align="center">Connect with me</h3>-->
-<!-- <p align="center"> -->
-<!-- <a href="https://twitter.com/bollesyassir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bollesyassir" height="30" width="40" /></a> -->
-<!-- <a href="https://linkedin.com/in/ysrbolles" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ysrbolles" height="30" width="40" /></a> -->
-<!-- <a href="https://stackoverflow.com/users/12165699" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="12165699" height="30" width="40" /></a> -->
-<!-- <a href="https://fb.com/ysrbolles" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ysrbolles" height="30" width="40" /></a> -->
-<!-- <a href="https://instagram.com/ysrbolles" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ysrbolles" height="30" width="40" /></a> -->
-<!-- </p> -->
-
-
-
-
-<!--<details>
   <br />
   <summary><b>⚙️ Things I use to get stuff done</b></summary>
   	<ul>
@@ -57,9 +24,10 @@
 	    <li><b>Code Editor:</b> VSCode - The best editor out there.</li>
 	    <li><b>To Stay Updated:</b> Dev.to, Medium, Linkedin, Twitter and StackOverflow (-Don't tell anyone-).</li>
 	</ul>	
-</details>-->
+</details>
 
-<!--<details>	
+
+<details>
   <summary><b>⚡ Github Stats</b></summary>
   <br />
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ysrbolles&theme=dracula" />
@@ -68,28 +36,17 @@
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ysrbolles&theme=dracula"/>
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ysrbolles&theme=dracula"/>
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ysrbolles&theme=dracula"/>
----
-</details>-->
+</details>
 
-
-<!--<div align="center"><a href="https://www.buymeacoffee.com/ysrbolles" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60px" width="217px" ></a></div>
+<div align="center"><a href="https://www.buymeacoffee.com/ysrbolles" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60px" width="217px" ></a></div>
 <div align="center">
 
 ### Show some ❤️ by starring some of the repositories!
 
 </div>
--->
 
 <!--
----
 
-<p align="center">
-   <img src="https://github.com/Ysrbolles/Ysrbolles/blob/output/github-contribution-grid-snake.svg" alt="snake">
-</p>
--->
----
-<!--
-**Ysrbolles/Ysrbolles** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -101,4 +58,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+  -->
