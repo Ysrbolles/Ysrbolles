@@ -1,5 +1,29 @@
 
 
+<img src="https://github.com/Ysrbolles/Ysrbolles/blob/main/src/bolles.png" alt="ysrbolles" />
+
+<!-- <div align="center"> -->
+
+<!-- ### Glad that you are here  -->
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=ysrbolles&label=Profile%20views&color=0e75b6&style=flat" alt="ysrbolles" /> </p>
+<!-- <h2>Experienced Web Developer with a demonstrated history of working in the software development industry and a 1337 Future Is Loading alumnus.<h2> 
+</div> -->
+
+<h3 align="center">Connect with me</h3>
+<p align="center">
+
+<a href="https://twitter.com/bollesyassir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bollesyassir" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ysrbolles" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ysrbolles" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/12165699" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="12165699" height="30" width="40" /></a>
+<a href="https://fb.com/ysrbolles" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ysrbolles" height="30" width="40" /></a>
+<a href="https://instagram.com/ysrbolles" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ysrbolles" height="30" width="40" /></a>
+</p>
+
+
+---
+
+
+<details>
 <!--<h1 align="center">Hi 👋, I'm BOLLES YASSIR</h1>-->
 <!--<img src="https://github.com/Ysrbolles/Ysrbolles/blob/main/src/github-header-image(4).png" alt="ysrbolles" />-->
 
