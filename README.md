@@ -1,4 +1,4 @@
-<img src="https://github.com/Ysrbolles/Ysrbolles/blob/main/src/bolles.png" alt="ysrbolles" />
+
 
 <div align="center">
 
