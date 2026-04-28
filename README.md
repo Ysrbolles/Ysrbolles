@@ -18,8 +18,8 @@
   <summary><b>⚙️ Things I use to get stuff done</b></summary>
   	<ul>
   	    <li><b>OS:</b> MacOs Sonoma</li>
-	    <li><b>Laptop: </b> MacBook Pro (i9 2019)</li>
-  	    <li><b>Browser: </b> Chrome & Firefox Web Browser</li>
+	    <li><b>Laptop: </b> MacBook Pro</li>
+  	    <li><b>Browser: </b> Chrome & Brave & Arc</li>
 	    <li><b>Terminal: </b> ZSH: Oh My Zsh (fino)</li>
 	    <li><b>Code Editor:</b> VSCode - The best editor out there.</li>
 	    <li><b>To Stay Updated:</b> Dev.to, Medium, Linkedin, Twitter and StackOverflow (-Don't tell anyone-).</li>
